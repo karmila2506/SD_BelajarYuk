@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix BelajarYuk - E-Learning SD Kurikulum Merdeka",
+  "description": "Aplikasi e-learning ceria dan terstruktur untuk siswa SD kelas 1-6, guru, dan admin dengan Kurikulum Merdeka, AI generator tugas, dan interaksi interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
